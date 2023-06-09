@@ -1,6 +1,6 @@
 <h1 align="center">Daily Cloud</h1>
 
-![Daily Cloud Banner!](./assets/images/banner_light.png "Daily Cloud Banner")
+![Daily Cloud Banner!](/profile/assets/images/banner_light.png "Daily Cloud Banner")
 
 
 ## Repository
