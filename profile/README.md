@@ -1,0 +1,19 @@
+# Daily Cloud
+
+## Repository
+- [Machine Learning](https://github.com/daily-cloud/daily-cloud-ml)
+- [Mobile Application](https://github.com/daily-cloud/daily-cloud-md)
+- [Back-End API](https://github.com/daily-cloud/daily-cloud-be)
+- [Prediction API](https://github.com/daily-cloud/daily-cloud-predict-api)
+
+## Capstone Project Teams
+| Name                           | Bangkit ID  | LinkedIn Profile                                |
+|--------------------------------|-------------|-------------------------------------------------|
+| Sherly Santiadi                | M226DSY0150 | [LinkedIn](https://www.linkedin.com/in/-)       |
+| Ahsan Firdaus                  | M172DKX4195 | [LinkedIn](https://www.linkedin.com/in/-)       |
+| Kaisar Fredi Valentino         | A032DSX1685 | [LinkedIn](https://www.linkedin.com/in/-)       |
+| Arya Tri Putra Majiah          | A226DSX1193 | [LinkedIn](https://www.linkedin.com/in/-)       |
+| Maya Septiani Br Simbolon      | C032DKY4321 | [LinkedIn](https://www.linkedin.com/in/-)       |
+| Fahrul Zaman                   | C141DSX0721 | [LinkedIn](https://www.linkedin.com/in/-)       |
+
+## Thank You
