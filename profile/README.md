@@ -12,13 +12,13 @@
 
 ## Capstone Project Teams
 
-| Name                      | Bangkit ID  | LinkedIn Profile                          |
-| ------------------------- | ----------- | ----------------------------------------- |
-| Sherly Santiadi           | M226DSY0150 | [LinkedIn](https://www.linkedin.com/in/-) |
-| Ahsan Firdaus             | M172DKX4195 | [LinkedIn](https://www.linkedin.com/in/-) |
-| Kaisar Fredi Valentino    | A032DSX1685 | [LinkedIn](https://www.linkedin.com/in/-) |
-| Arya Tri Putra Majiah     | A226DSX1193 | [LinkedIn](https://www.linkedin.com/in/-) |
-| Maya Septiani Br Simbolon | C032DKY4321 | [LinkedIn](https://www.linkedin.com/in/-) |
-| Fahrul Zaman              | C141DSX0721 | [LinkedIn](https://www.linkedin.com/in/-) |
+| Name                      | Bangkit ID  | LinkedIn Profile                                                   |
+| ------------------------- | ----------- | ------------------------------------------------------------------ |
+| Sherly Santiadi           | M226DSY0150 | [LinkedIn](https://www.linkedin.com/in/sherly-santiadi-2723a821a/) |
+| Ahsan Firdaus             | M172DKX4195 | [LinkedIn](https://www.linkedin.com/in/ahsanfirdaus1/)             |
+| Kaisar Fredi Valentino    | A032DSX1685 | [LinkedIn](https://www.linkedin.com/in/kaisar-fredi-valentino/)    |
+| Arya Tri Putra Majiah     | A226DSX1193 | [LinkedIn](https://www.linkedin.com/in/arya-majiah/)               |
+| Maya Septiani Br Simbolon | C032DKY4321 | [LinkedIn](https://www.linkedin.com/in/mayaseptianibrsimbolon/)    |
+| Fahrul Zaman              | C141DSX0721 | [LinkedIn](https://www.linkedin.com/in/fhrlzmn/)                   |
 
 ## Thank You
