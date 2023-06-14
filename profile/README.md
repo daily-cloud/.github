@@ -3,7 +3,7 @@
 ![Daily Cloud Banner!](/profile/assets/images/banner_light.png "Daily Cloud Banner")
 
 
-## Repository
+## Repository & Documentation
 
 - [Machine Learning](https://github.com/daily-cloud/daily-cloud-ml)
 - [Mobile Application](https://github.com/daily-cloud/daily-cloud-md)
